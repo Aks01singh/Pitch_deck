@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -58,3 +58,364 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+StudiousAR/Assets/videos.meta
+StudiousAR/Assets/chapter1/models/palaentology_starfish/FishHigh.obj
+StudiousAR/Assets/models/chapter1/models/palaentology_starfish/FishHigh.obj.meta
+StudiousAR/Assets/models/chapter1/models/palaentology_starfish/FishHigh.obj
+StudiousAR/Assets/models/chp2/source/PlantCellOrganelles.zip.zip
+StudiousAR/Assets/models/chp2/plant cell.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_CellWallMain BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_CellWallMain.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Centriole BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Centriole.png
+StudiousAR/Assets/models/chp2/textures/Default Material_ChloroplastMem001 BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_ChloroplastMem001.png
+StudiousAR/Assets/models/chp2/textures/Default Material_ChloroplastMem002 BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_ChloroplastMem002.png
+StudiousAR/Assets/models/chp2/textures/Default Material_ChloroplastMemFull BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_ChloroplastMemFull.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae001 BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae001.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae002 BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae002.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae003 BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae003.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae004 BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae004.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae005 BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae005.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae006 BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Cytosol Main BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Cytosol Main.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Default Material_NucleusChunkOut BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Default Material_NucleusChunkOut Opacity.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Default Material_NucleusChunkOut.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Granum001 BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Granum001.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Granum002 BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_Granum002.png
+StudiousAR/Assets/models/chp2/textures/Default Material_MitochonHalf Inside BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_MitochonHalf Inside.png
+StudiousAR/Assets/models/chp2/textures/Default Material_MitochonHalf Outside BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_MitochonHalf Outside.png
+StudiousAR/Assets/models/chp2/textures/Default Material_MitochonWhole Inside BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_MitochonWhole Inside.png
+StudiousAR/Assets/models/chp2/textures/Default Material_MitochonWhole Outside BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_MitochonWhole Outside.png
+StudiousAR/Assets/models/chp2/textures/Default Material_RER Main BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_RER Main.png
+StudiousAR/Assets/models/chp2/textures/Default Material_SER Main BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_SER Main.png
+StudiousAR/Assets/models/chp2/textures/Default Material_VacuoleMain BW.png
+StudiousAR/Assets/models/chp2/textures/Default Material_VacuoleMain.png
+StudiousAR/Assets/models/chp2/textures/Default_Material_Cisternae006.png
+StudiousAR/Assets/models/chp2/textures/Map__9578_Mix.png
+StudiousAR/Assets/models/chp2/textures/Map__9861_Falloff.png
+StudiousAR/Assets/models/chp2/textures/Map__9867_Falloff.png
+StudiousAR/Assets/models/chp2/textures/Map__9890_Smoke.png
+StudiousAR/Assets/models/chp2/textures/Map__9921_Falloff.png
+StudiousAR/Assets/models/chp2/textures/Map__9936_Mix.png
+StudiousAR/Assets/Scenes/chp2.unity
+StudiousAR/Assets/Scenes/chp2.unity.meta
+StudiousAR/Assets/models/chp2/plant cell/source.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_CellWallMain BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_CellWallMain.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Centriole BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Centriole.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_ChloroplastMem001 BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_ChloroplastMem001.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_ChloroplastMem002 BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_ChloroplastMem002.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_ChloroplastMemFull BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_ChloroplastMemFull.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae001 BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae001.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae002 BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae002.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae003 BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae003.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae004 BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae004.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae005 BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae005.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae006 BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cytosol Main BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cytosol Main.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Default Material_NucleusChunkOut BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Default Material_NucleusChunkOut Opacity.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Default Material_NucleusChunkOut.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Granum001 BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Granum001.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Granum002 BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Granum002.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_MitochonHalf Inside BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_MitochonHalf Inside.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_MitochonHalf Outside BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_MitochonHalf Outside.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_MitochonWhole Inside BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_MitochonWhole Inside.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_MitochonWhole Outside BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_MitochonWhole Outside.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_RER Main BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_RER Main.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_SER Main BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_SER Main.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_VacuoleMain BW.png
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_VacuoleMain.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9358_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9578_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9578_Mix.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9583_Mix.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9584_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9861_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9862_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9867_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9886_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9890_Smoke.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9891_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9892_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9893_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9894_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9895_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9896_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9897_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9898_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9907_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9915_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9920_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9921_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9923_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9932_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9936_Mix.png
+StudiousAR/Assets/models/chp2/plant cell/source/PlantCellOrganelles.mtl
+StudiousAR/Assets/models/chp2/plant cell/source/PlantCellOrganelles.obj
+StudiousAR/Assets/models/chp2/plant cell/source/PlantCellOrganelles.zip.zip
+StudiousAR/Assets/models/chp2/plant cell/source/PlantCellOrganelles.zip.zip.meta
+StudiousAR/Assets/models/chp2/plant cell/textures.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_CellWallMain BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_CellWallMain BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_CellWallMain.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_CellWallMain.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Centriole BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Centriole BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Centriole.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Centriole.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_ChloroplastMem001 BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_ChloroplastMem001 BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_ChloroplastMem001.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_ChloroplastMem001.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_ChloroplastMem002 BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_ChloroplastMem002 BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_ChloroplastMem002.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_ChloroplastMem002.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_ChloroplastMemFull BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_ChloroplastMemFull BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_ChloroplastMemFull.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_ChloroplastMemFull.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae001 BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae001 BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae001.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae001.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae002 BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae002 BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae002.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae002.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae003 BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae003 BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae003.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae003.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae004 BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae004 BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae004.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae004.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae005 BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae005 BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae005.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae005.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae006 BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cisternae006 BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cytosol Main BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cytosol Main BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cytosol Main.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Cytosol Main.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Default Material_NucleusChunkOut BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Default Material_NucleusChunkOut BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Default Material_NucleusChunkOut Opacity.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Default Material_NucleusChunkOut Opacity.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Default Material_NucleusChunkOut.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Default Material_NucleusChunkOut.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Granum001 BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Granum001 BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Granum001.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Granum001.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Granum002 BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Granum002 BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Granum002.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_Granum002.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_MitochonHalf Inside BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_MitochonHalf Inside BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_MitochonHalf Inside.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_MitochonHalf Inside.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_MitochonHalf Outside BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_MitochonHalf Outside BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_MitochonHalf Outside.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_MitochonHalf Outside.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_MitochonWhole Inside BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_MitochonWhole Inside BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_MitochonWhole Inside.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_MitochonWhole Inside.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_MitochonWhole Outside BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_MitochonWhole Outside BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_MitochonWhole Outside.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_MitochonWhole Outside.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_RER Main BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_RER Main BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_RER Main.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_RER Main.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_SER Main BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_SER Main BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_SER Main.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_SER Main.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_VacuoleMain BW.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_VacuoleMain BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_VacuoleMain.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default Material_VacuoleMain.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Default_Material_Cisternae006.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Default_Material_Cisternae006.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Map__9578_Mix.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Map__9578_Mix.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Map__9861_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Map__9861_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Map__9867_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Map__9867_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Map__9890_Smoke.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Map__9890_Smoke.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Map__9921_Falloff.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Map__9921_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/textures/Map__9936_Mix.png
+StudiousAR/Assets/models/chp2/plant cell/textures/Map__9936_Mix.png.meta
+StudiousAR/Assets/models/chp2/source.meta
+StudiousAR/Assets/models/chp2/source/PlantCellOrganelles.zip.zip.meta
+StudiousAR/Assets/models/chp2/textures.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_CellWallMain BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_CellWallMain.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Centriole BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Centriole.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_ChloroplastMem001 BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_ChloroplastMem001.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_ChloroplastMem002 BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_ChloroplastMem002.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_ChloroplastMemFull BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_ChloroplastMemFull.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae001 BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae001.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae002 BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae002.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae003 BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae003.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae004 BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae004.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae005 BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae005.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Cisternae006 BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Cytosol Main BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Cytosol Main.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Default Material_NucleusChunkOut BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Default Material_NucleusChunkOut Opacity.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Default Material_NucleusChunkOut.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Granum001 BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Granum001.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Granum002 BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_Granum002.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_MitochonHalf Inside BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_MitochonHalf Inside.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_MitochonHalf Outside BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_MitochonHalf Outside.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_MitochonWhole Inside BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_MitochonWhole Inside.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_MitochonWhole Outside BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_MitochonWhole Outside.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_RER Main BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_RER Main.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_SER Main BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_SER Main.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_VacuoleMain BW.png.meta
+StudiousAR/Assets/models/chp2/textures/Default Material_VacuoleMain.png.meta
+StudiousAR/Assets/models/chp2/textures/Default_Material_Cisternae006.png.meta
+StudiousAR/Assets/models/chp2/textures/Map__9578_Mix.png.meta
+StudiousAR/Assets/models/chp2/textures/Map__9861_Falloff.png.meta
+StudiousAR/Assets/models/chp2/textures/Map__9867_Falloff.png.meta
+StudiousAR/Assets/models/chp2/textures/Map__9890_Smoke.png.meta
+StudiousAR/Assets/models/chp2/textures/Map__9921_Falloff.png.meta
+StudiousAR/Assets/models/chp2/textures/Map__9936_Mix.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_CellWallMain BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_CellWallMain.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Centriole BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Centriole.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_ChloroplastMem001 BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_ChloroplastMem001.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_ChloroplastMem002 BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_ChloroplastMem002.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_ChloroplastMemFull BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_ChloroplastMemFull.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae001 BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae001.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae002 BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae002.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae003 BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae003.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae004 BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae004.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae005 BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae005.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cisternae006 BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cytosol Main BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Cytosol Main.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Default Material_NucleusChunkOut BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Default Material_NucleusChunkOut Opacity.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Default Material_NucleusChunkOut.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Granum001 BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Granum001.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Granum002 BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_Granum002.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_MitochonHalf Inside BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_MitochonHalf Inside.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_MitochonHalf Outside BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_MitochonHalf Outside.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_MitochonWhole Inside BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_MitochonWhole Inside.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_MitochonWhole Outside BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_MitochonWhole Outside.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_RER Main BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_RER Main.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_SER Main BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_SER Main.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_VacuoleMain BW.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Default Material_VacuoleMain.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9358_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9578_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9578_Mix.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9583_Mix.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9584_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9861_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9862_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9867_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9886_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9890_Smoke.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9891_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9892_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9893_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9894_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9895_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9896_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9897_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9898_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9907_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9915_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9920_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9921_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9923_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9932_Falloff.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/Map__9936_Mix.png.meta
+StudiousAR/Assets/models/chp2/plant cell/source/PlantCellOrganelles.mtl.meta
+StudiousAR/Assets/models/chp2/plant cell/source/PlantCellOrganelles.obj.meta
